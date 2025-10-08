@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sanjeev Giri and I'm a Student</p>
+<p align="left"><strong>Sanjeev Giri</strong> - FullStack Developer</p>
 
 ###
 
